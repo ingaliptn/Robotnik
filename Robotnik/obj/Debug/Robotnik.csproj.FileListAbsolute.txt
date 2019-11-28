@@ -1,0 +1,10 @@
+Z:\Tkachuk\WinForm\Robotnik\Robotnik\bin\Debug\Robotnik.exe.config
+Z:\Tkachuk\WinForm\Robotnik\Robotnik\bin\Debug\Robotnik.exe
+Z:\Tkachuk\WinForm\Robotnik\Robotnik\bin\Debug\Robotnik.pdb
+Z:\Tkachuk\WinForm\Robotnik\Robotnik\obj\Debug\Robotnik.csprojAssemblyReference.cache
+Z:\Tkachuk\WinForm\Robotnik\Robotnik\obj\Debug\Robotnik.Form1.resources
+Z:\Tkachuk\WinForm\Robotnik\Robotnik\obj\Debug\Robotnik.Properties.Resources.resources
+Z:\Tkachuk\WinForm\Robotnik\Robotnik\obj\Debug\Robotnik.csproj.GenerateResource.cache
+Z:\Tkachuk\WinForm\Robotnik\Robotnik\obj\Debug\Robotnik.csproj.CoreCompileInputs.cache
+Z:\Tkachuk\WinForm\Robotnik\Robotnik\obj\Debug\Robotnik.exe
+Z:\Tkachuk\WinForm\Robotnik\Robotnik\obj\Debug\Robotnik.pdb
